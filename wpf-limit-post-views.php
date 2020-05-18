@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: WP Fusion - Limit Post Views
-Description: Allows visitors to read 5 blog posts, after which they are prompted to enter an email address to read more. (for https://www.thepublicdiscourse.com/)
+Description: Allows visitors to read 5 blog posts, after which they are prompted to enter an email address to read more.
 Plugin URI: https://verygoodplugins.com/
 Version: 1.1
 Author: Very Good Plugins
